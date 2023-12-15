@@ -2,8 +2,7 @@
 <h3 align="center">an aspiring engineering graduate eager to explore the field of embedded system</h3>
 
 
-"![image](https://github.com/Diya7781/Diya7781/assets/153449701/6dfa6c1d-2939-4acc-b658-0d805dae92f4)
-"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diya7781&label=Profile%20views&color=0e75b6&style=flat" alt="diya7781" /> </p>
 
